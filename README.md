@@ -1,2 +1,2 @@
-# KORPUS-
+# KORPUS
 KORPUS Вступительное задание
